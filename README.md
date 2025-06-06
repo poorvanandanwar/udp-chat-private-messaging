@@ -21,5 +21,5 @@ and run:
 client.exe
 Enter name and the chat begins.
 
-To exit client or shutdown server:
+To exit or shutdown server:
 press ctrl+c
